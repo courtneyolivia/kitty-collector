@@ -5,7 +5,7 @@ Kitty Collector is a fun, quirky interactive game for web browsers centered arou
 It dynamically update your HTML pages with the jQuery library.
 
 
-<b><h1>How to Play</b></h2><br/>
+<b><h2>How to Play</b></h2><br/>
 <ul>
 <li>The player will have to guess the answer, just like in Hangman. This time, though, the player will guess with numbers instead of letters.</li>
 <li>There will be four crystals displayed as buttons on the page.</li>
