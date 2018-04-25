@@ -1,0 +1,95 @@
+body {
+  background-image: url("../images/catBackground.png");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: right bottom;
+      margin: 15px;
+}
+
+#screen {
+    overflow: auto;
+}
+
+#screen div {
+    float: left;
+}
+
+
+ #title {
+    background-color: #0059b3;
+    color: #fff;
+    width: 250px;
+    padding: 4px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+ #paragraph {
+    background-color: #cce6ff;
+  width: 400px;
+  height: 250px;
+  padding: 4px;
+  margin-bottom: 10px;
+  line-height: 30px;
+  padding: 10px;
+}
+
+img {
+	width: 50px;
+}
+
+#random-area {
+    width: 200px;
+    height: 100px;
+    padding: 4px;
+    font-size: 3vw;
+    color: purple;
+    background-color: mediumseagreen;
+}
+
+#score-area {
+    width: 210px;
+    height: 100px;
+    padding: 4px;
+    color: ghostwhite;
+    background-color: darkcyan;
+}
+
+#score-title {
+    width: 210px;
+    padding: 4px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: darkcyan;
+}
+
+.kitty-button {
+    display: inline;
+    	display: flex;
+    	justify-content: space-around;
+    	align-items: center;
+}
+
+.kitty-img {
+	height: 200px;
+	width: 200px;
+	border-color: blue;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 50%;
+}
+
+#score-number {
+    font-size: 3vw;
+}
+
+#win-area {
+    height: 100px;
+    padding: 4px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-color: aqua;
+}
+
+
+
